@@ -1,0 +1,6 @@
+Query,Response,Response Time (s),Indexing Time (s)
+what are the principles of scheduling?,Defined outcomes: Every task that is scheduled should have a defined outcome,2.7387328147888184,11.40052342414856
+what is project scheduling?,Effort validation,2.727221727371216,11.40052342414856
+what is critical path?,Path with zero slack,2.8682615756988525,11.40052342414856
+what is compartmentalization?,"a number of manageable 
+activities and tasks",4.402468681335449,11.40052342414856
