@@ -14,8 +14,7 @@ TutorGPT is an AI-powered multimodal system designed to automate student data in
 
 ### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/your-repo/tutorgpt.git
-cd tutorgpt
+git clone https://github.com//Arulpathi/TutorGPT.git
 ```
 
 ### Step 2: Create a Virtual Environment
@@ -63,3 +62,11 @@ python app.py
 
 ## Contact
 For issues or suggestions, reach out via GitHub Issues.
+
+## Authors
+Arulpathi A
+Sharan
+Shiva Aravindasamy
+Sharan S
+Vaikunt Ramakrishnan
+
