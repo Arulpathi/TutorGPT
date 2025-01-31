@@ -56,7 +56,7 @@ python app.py
 - **Docker (Optional)**: For offline execution.
 
 ## Future Enhancements
-- Support for audio-based document parsing.
+- Report Generation
 - Integration with cloud storage for document uploads.
 - Advanced visualization tools for report generation.
 
