@@ -1,0 +1,126 @@
+Document Name,Query,Embedding Time,LLM Time,Result
+avocado.csv,What is the given file about?,982.217385,4.097146,"
+The given file appears to be a dataset containing information about avocado sales. Each row represents a sale transaction, with columns providing details such as the quantity sold, unit price, cost, total revenue, total cost, profit, and other relevant information. The dataset also includes information about the type of avocado (organic), the year, and the region of sale (NewOrleansMobile or TotalUS, West)."
+avocado.csv,"What is the price of Avocado when date is 15th July 2015 ,type is conventional and region is Albany?",982.217385,4.806517,"1.33
+Explanation: The query is asking for the average price of avocado when the date is 15th July 2015, the type is conventional, and the region is Albany. The context information provided in the CSV file shows that the average price for avocado on July 12, 2015, with the given type and region is 1.33. Since the date is close to the 15th, it is a reasonable assumption that the price on the 15th would be similar. However, it is important to note that this is an assumption and not a definitive answer, as the CSV file does not provide the exact price for July 15, 2015."
+avocado.csv,Display all the values in the row 7103,982.217385,3.334686,"6310.56, 10663.36, conventional, 2017, GrandRapids
+
+Explanation:
+The query asks for all the values in the row with index 7103. However, the provided context information only includes rows 0 through 44 for the GrandRapids location and rows 0 through 42 for the Nashville location. Therefore, there is no row 7103 in the provided context information.
+
+To answer the query, one would need access to the complete dataset or the ability to locate the missing data. In this case, since the data is not provided, it is not possible to answer the query accurately."
+BE CSE 2019 Regulation.pdf,What is the given file about?,54.971362,2.092317,"
+The given file appears to be a syllabus for a computer science engineering course, possibly for a semester or a year. It lists various topics under different subject codes and titles, along with the number of lecture hours allocated to each topic. The subjects covered include UNIX internals, Object Oriented Programming, Economics for Engineers, and Data Structures Laboratory. The file also mentions some textbooks and references for each subject."
+BE CSE 2019 Regulation.pdf,How many courses are there totally in this regulation?,54.971362,0.582148,165 courses are mentioned in the regulation.
+BE CSE 2019 Regulation.pdf,Which year this regulation belongs to?,54.971362,0.883929,"2019. The title of the document indicates that it is the ""BE CSE 2019 Regulation."""
+BE CSE 2019 Regulation.pdf,Explain about all the course outcomes in the course code 19Z504,54.971362,4.652552,"19Z504 is a course code mentioned in the BE CSE 2019 Regulation document. According to the document, the course is titled ""Digital Systems Design and Implementation"" and falls under the semester 5 and 6 curriculum. The course outcomes for 19Z504 are as follows:
+
+1. Understand the basics of digital systems design and implementation using FPGA and CPLD technologies.
+2. Design and implement digital systems using FPGA and CPLD technologies.
+3. Understand the concepts of digital logic design, combinational and sequential logic, and digital circuits.
+4. Understand the basics of digital communication systems and digital signal processing.
+5. Understand the basics of microcontrollers and microprocessors and their applications.
+6. Understand the basics of embedded systems and their design and implementation.
+7. Understand the basics of digital system testing and verification.
+8. Understand the basics of digital system simulation and modeling.
+9. Develop skills in using digital design tools like Xilinx ISE, Quartus II, and MATLAB.
+10. Develop skills"
+BE CSE 2019 Regulation.pdf,How many credits is the subject Cryptography?,54.971362,1.386136,"12 credits (2 credits for Computer Security Concepts, 6 credits for Symmetric Ciphers, 5 credits for Public-Key Cryptography, and 1 credit for Cryptographic Hash Functions) are allocated to the subject Cryptography in the curriculum."
+camera_taken_img.jpg,What is the given file about?,10.574202,0.907735," The given file is a JPG image and it does not contain any textual information. Therefore, it is not possible to determine what the file is about based on the context information alone."
+camera_taken_img.jpg,What dates are the 2nd review scheduled?,10.574202,0.605535,27.02.2023 - 01.03.2023.
+camera_taken_img.jpg,How many marks will the review be evaluated for?,10.574202,0.451157,50 marks will be evaluated for the reviews.
+CS25S17420115_AdmitCard.pdf,What is the given file about?,6.037032,1.434132," The given file is an Admit Card for a Graduate Aptitude Test in Engineering (GATE) 2025 for a candidate named Shiva Aravindha Samy A with registration number CS25S17420115. The document contains important instructions for the candidate, the paper code and name, date, time, examination centre details, and organising institute information."
+CS25S17420115_AdmitCard.pdf,What is the registration number and name of the student?,6.037032,0.620807," CS25S17420115, Shiva Aravindha Samy A."
+CS25S17420115_AdmitCard.pdf,Give me clear information about the examination centre,6.037032,3.437434,"
+The examination centre for the given admit card is iON Digital Zone iDZ Thondamuthur Center-3, located at Ranganathan Engineering College, REC Kalvi Nagar, Viraliyur Post, Thondamuthur via, Coimbatore, Tamilnadu, India. The pin code for this location is 641109. The organising institute for the examination is IIT Roorkee. The examination centre personnel will verify the identity of the candidate using the printed copy of the admit card and a valid photo identification document. Candidates are required to report to the examination venue at least 90 minutes before the scheduled commencement of the examination. Personal calculators, mobile phones, watches, charts, tables, papers, books, heavy ornaments, and other electronic devices are prohibited inside the test centre. A scribble pad and a pen or pencil will be allowed for rough work. Candidates are not allowed to leave the examination hall before the end of the examination. Impersonation and violation of the guidelines will lead to cancellation of candidature and penal action. PwD candidates may bring their assistive devices and are allowed to leave the examination hall after the"
+csv_file.xlsx,What is the given file about?,5.007946,1.215782," The given file is an Excel file containing information about various universities and colleges, the number of students from each institution who have participated in immersion programs, and the number of immersion programs offered by each institution. The file also includes information about the location and duration of some of these immersion programs."
+csv_file.xlsx,"Explain about the programs participated by P.S.G.R.Krishnammal College for Women, Coimbatore",5.007946,1.184116," P.S.G.R.Krishnammal College for Women, Coimbatore has participated in one program as per the provided data in the CSV file. However, no further details about the specific program are mentioned in the table."
+csv_file.xlsx,How many students have been selected so far?,5.007946,0.490084,478 students have been selected so far.
+clear_img.jpg,What is the given file about?,5.194064,2.161313,"
+The given file appears to be a table from a document related to an intramural sports day schedule at PSG Tech. The table lists various sports events, their respective formats (singles, doubles, teams), the roll number of the participants, and the dates on which the events are scheduled to take place. The events listed include throwball, hockey, volleyball, sepaktakraw, handball, chess, and badminton. The table suggests that the events for women are scheduled on certain dates in December 2023, while the events for men are scheduled on other dates in December 2023 and February 2024."
+clear_img.jpg,When will the remaining schedule will be conducted?,5.194064,0.697318, The remaining schedule of the intramural programme will be conducted during February 2024.
+clear_img.jpg,What are the events happening on 16th December 2023?,5.194064,1.04972,"
+1. Chess Competition for Men
+2. Chess Competition for Women
+
+Explanation:
+The context information provided in the table lists the events happening on 16th December 2023 for the Chess Competition for both Men and Women."
+Docs.docx,What is the given file about?,3.927873,1.297432,"
+The given file appears to be a document containing information related to a faculty and student list for a Computer Science Engineering (CSE) program. The document includes the names, ID numbers, and in some cases, titles or honorifics for the faculty members and students. It is likely that this document was used for administrative purposes, such as record keeping or communication within the department."
+Docs.docx,Who is the Faculty Mentor for Batch No. 5?,3.927873,0.666103,521Z259 - Subhashini G is the Faculty Mentor for Batch No. 5.
+Docs.docx,Which team is Praveen Krishna G in and who is his Faculty Mentor?,3.927873,0.796371, Praveen Krishna G is in Team 3 and his Faculty Mentor is Dr.G.Sudha Sadasivam.
+Guroove Requirement Analysis.pdf,What is the given file about? What is Guroove?,4.058321,1.981869,"
+The given file is a requirement analysis document for a cross-platform mobile application named Guroove. Guroove is a personalized music player application that aims to provide various features such as connecting to YouTube for access to a wider range of audios, enabling audio download and saving for offline use, transposing audio, adding and editing lyrics, controlling audio speed and looping, and displaying chords based on the current scale. Additionally, the application will allow members' details to be added and have sections for photos and videos."
+Guroove Requirement Analysis.pdf,What happens in the final round of Auditions? What message will be sent to them?,4.058321,1.54684,"
+In the final round of auditions, the participants are required to take an aptitude test within the app. There is no submit button, they must complete the test. After this round, the app will display a congratulatory message to those who have been selected.
+
+Therefore, the message sent to the participants after the final round of auditions will be a congratulatory message."
+Guroove Requirement Analysis.pdf,Explain about the event management feature in the App,4.058321,1.776433,"
+The event management feature in the app is designed to help plan and manage various aspects of a show or event. It includes features like setting the expected date, tracking the number of days remaining until the event, estimating the expected number of audience, and managing the required equipment such as microphones, cables, in-ears, etc. The app also includes an interactive to-do list to help keep track of tasks and permissions that need to be obtained before the event."
+multimodal_report_generation_agent_img.png,What is the given file about?,16.009882,1.568052,"
+The given file appears to be a generated report with images, possibly related to multimodal report generation using LlamaParse. The report includes sections such as ""Research Agent,"" ""Knowledge Base,"" ""Retrieve,"" ""Generate,"" ""Report Generation,"" and ""User Query."" The file also includes a commitment to a disciplined reinvestment rate and a mention of Antlutb Conatcerallina, but the significance of these elements is unclear without additional context."
+multimodal_report_generation_agent_img.png,Explain about the flow diagram in the given image,16.009882,3.117616,"
+The flow diagram in the image represents the process of multimodal report generation using LlamaParse. The process begins with a user query, which is then sent to a knowledge base to retrieve relevant information. The knowledge base returns the information in the form of text and images, which are then used to generate a report. The report is generated using a report generation system, which combines the text and images into a cohesive document. The report is then output in a specified format, such as Pango with LlamaParse Prettur Mode. The process is repeated for each user query.
+
+The diagram also shows that the knowledge base is ordered both to screenshots and Vecio database, indicating that the information retrieved from the knowledge base can come from multiple sources.
+
+The classes TextBlock, ImageBlock, and ReportOutput are used to define the structure of the report output. TextBlock represents a block of text in the report, ImageBlock represents a block of an image in the report, and ReportOutput represents the final report output, which is a list of TextBlock and ImageBlock objects."
+Project Scheduling.pdf,What is the given file about?,3.427613,1.009443," The given file appears to be a document related to software project management, specifically focusing on project scheduling. It discusses the principles of scheduling, a problem table, network of activities, and critical path."
+Project Scheduling.pdf,Explain about the Principles of Scheduling,3.427613,1.228049,"
+The principles of scheduling in software project management involve compartmentalizing a project into manageable activities and tasks, determining their interdependencies, allocating time and effort to each task, ensuring valid effort allocation, assigning responsibilities, defining outcomes, and associating tasks with milestones. These principles help in effectively planning and managing the project schedule."
+Project Scheduling.pdf,What is critical path?,3.427613,1.295275," Critical path is a sequence of activities in a project, where the total duration of the path is equal to the project's total duration. A delay in any activity on the critical path will delay the entire project. The critical path has zero slack, meaning there is no extra time available for the activities on the critical path."
+Project Work II - Review 1.pptx,What is the given file about?,4.454648,2.309237,"
+The given file is a PowerPoint presentation titled ""Project Work II - Review 1."" It appears to be a part of a project or research work, as indicated by the title. The presentation covers various topics related to literature surveys and automating report generation using large language models (LLMs) and computer vision techniques. Specifically, it discusses two systems: XRaySwinGen, which uses a multimodal model for generating textual medical reports from X-ray images, and a system for automating government report generation using LLMs and RAG pipelines. The presentation also includes a timeline for the project's development."
+Project Work II - Review 1.pptx,What are the reasons for changing the problem statement?,4.454648,1.157498,"
+The reasons for changing the problem statement include a lack of resources available for reference, time constraints, entering a new domain, and teachers advising a technical solution rather than a theoretical one. The overall consensus was that the project may be too tough for the team given the different constraints."
+Project Work II - Review 1.pptx,What are the tools used?,4.454648,2.35851,"
+1. LlamaParse
+2. BAAI Embedding Model
+3. Python
+4. Gradient Framework
+5. Vector Database (not used at the moment)
+6. Docker (not used at the moment)
+7. Cloud-based services (potentially)
+
+The context information provided in the file_path: sample test docs\Project Work II - Review 1.pptx mentions the tools used for the project. These tools include LlamaParse, BAAI Embedding Model, Python, Gradient Framework, Vector Database, and Docker. However, it is mentioned that Docker and the Vector Database are not used at the moment."
+Screenshot 2024-03-18 094225.png,What is the given file about?,4.500463,3.959005,"
+The given file appears to be a table or a schedule of some sort, displaying information related to various halls and rooms, along with dates, times, and subjects or assessments. The first row of the table seems to be a header, with the columns labeled as 'HALL', 'HALL 1', 'HALL 3', 'HALL 4', 'R1-R4', 'R5-R7', 'Ri-R3', 'R4-R6', and ''. The subsequent rows seem to provide specific information for each cell under these headers. For instance, the cell under 'HALL' and '401' has the value 'A 401', and the cell under 'Date' and '24.01.2024' has the value '8.30-10.10am'. It is unclear from the given context what the abbreviations 'BE', 'BTech', 'FT', 'G1', and 'R' represent, but they seem to be related to the subjects or assessments mentioned in the table. Overall, the file appears to be a schedule or timetable for some educational or training program"
+Screenshot 2024-03-18 094225.png,What date is assessment tutorial 2 on?,4.500463,0.510169,26.03.2024.
+Screenshot 2024-03-18 094225.png,"What hall, date and time is scheduled for BE CSE G2 for the subject 19Z604?",4.500463,1.477235,"
+Based on the context information provided, there is no direct mapping of the subject code 19Z604 to a specific hall, date, and time. The context information only shows the schedule for certain subjects in certain halls on specific dates and times. Therefore, it is not possible to determine the hall, date, and time for BE CSE G2 for the subject 19Z604 based on the given context information alone."
+Screenshot 2024-09-10 223012.png,What is the given file about?,5.389726,1.815347," Based on the context information provided, it appears that the file is a screenshot of a document or application interface with some text and numbers visible. The text includes the words ""Wed,"" ""Elu,"" ""Voa,"" ""Inaruh,"" ""#ini,"" ""Fut,"" ""WA-AitI,"" ""Maca#i,"" ""0TA/4,"" and ""sntnm."" The numbers ""623"" and ""4"" are also visible. Without further context, it is not possible to determine the specific meaning or purpose of the text or numbers in the screenshot."
+Screenshot 2024-09-10 223012.png,What are the types of MAC protocols for Ad-hoc wireless networks?,5.389726,2.962253,"
+Based on the context information provided, it appears that the text mentions MAC protocols for Ad-hoc wireless networks in relation to the WA-AitI protocol and Maca#i. However, the text does not explicitly state that these are the only MAC protocols for Ad-hoc wireless networks or even that they are MAC protocols specifically designed for Ad-hoc networks. Therefore, it is not possible to definitively answer the query based on the context information alone.
+
+It is worth noting that WA-AitI is a MAC protocol specifically designed for Ad-hoc wireless networks, and it is mentioned in the context of the MAC address Maca#i. Maca#i is likely a MAC address used in the context of this particular network.
+
+Therefore, while the context information suggests that WA-AitI is a MAC protocol for Ad-hoc wireless networks, it does not provide enough information to definitively answer the query. Further research or context would be required to provide a complete answer."
+Screenshot 2024-09-10 223012.png,Given examples for Contention-based protocols with scheduling mechanism,5.389726,3.422632,"
+Contention-based protocols are a type of communication protocol used in computer networks where multiple devices compete for the use of a shared resource, such as a communication channel or a bus. These protocols do not rely on a centralized scheduler to manage access to the resource. Instead, devices attempt to access the resource independently, and conflicts are resolved through various mechanisms.
+
+One example of a contention-based protocol with a scheduling mechanism is the Carrier Sense Multiple Access with Collision Detection (CSMA/CD) protocol. In this protocol, devices sense the bus before transmitting to ensure it is not in use. If a device detects that the bus is in use, it defers its transmission until the bus is free. However, if two devices transmit at the same time, a collision occurs, and both devices must back off and retransmit at a later time. The backoff time is determined randomly, which adds an element of scheduling to the protocol.
+
+Another example is the Token Bus protocol. In this protocol, a token is passed around the bus, and only the device holding the token can transmit data. When a device finishes transmitting, it passes the token to the next device in the"
+Screenshot 2024-09-10 223242.png,What is the given file about?,4.702957,1.708307," The given file appears to be a table from a document discussing route maintenance in DSDV (Distributed System for Distance Vector Routing). The table lists Destination IDs, their current Deterministic Sequence Number (Det), the ID of their next hop node (NexNode), the distance (Dist) to that next hop, and the Shortest Common Subsequence Number (SccNo). The table seems to be showing the state of the routing system for various nodes in the network."
+Screenshot 2024-09-10 223242.png,Explain the routing table given in the picture,4.702957,3.410654,"
+The routing table in the picture represents the routing information available at a node in the DSDV (Distance-Vector Shortest-Path Routing) protocol network. Each row in the table represents a destination node in the network, and the columns represent various pieces of information related to that destination.
+
+The first column, ""DestinationID,"" represents the unique identifier of the destination node. The second column, ""Det,"" indicates the type of event that caused the update to the routing table. In this case, it appears that the updates were caused by a node movement event.
+
+The third column, ""NexNode,"" represents the next hop node that should be used to reach the destination node. In other words, it is the node that the local node should forward packets to in order to reach the destination.
+
+The fourth column, ""Dist,"" represents the distance, or number of hops, between the local node and the destination node. This value is used by the DSDV protocol to determine the shortest path to the destination.
+
+The fifth column, ""SccNo,"" represents the shortest-path cost to reach the destination node. This value is calculated as the sum of the distances between the local node"
+Screenshot 2024-09-10 223242.png,Route between which nodes is broken in the given picture?,4.702957,2.654237,"
+Based on the context information provided, the table appears to show routing information in DSDV (Distributed Shortest Path Determination Algorithm) for nodes in a network. The columns represent Destination ID (Det), Distance (Dist), Shortest Chain ID (SccNo), Next Node (NexNode), and a Determination (Det) field. The Det field is not populated in the table, but it is mentioned in the context.
+
+The query asks for the route between which nodes is broken in the given picture. However, the picture is not provided in the context information. Therefore, it is not possible to answer the query based on the given context information alone.
+
+To answer the query, we would need to know which nodes' routes are broken and what the expected routes should be. Without this information, it is impossible to determine which nodes' routes are broken based on the given context information."
+spm-1.pdf,What is the given file about?,22.403816,1.814942," The given file is a PDF document titled 'Software Project Management' by Prakash.J from PSG College of Technology. The document contains information about software project management and includes a table that explains the W5HH principle. The W5HH principle is a set of questions that help teams focus on the essential aspects of a software project: Why, What, When, Who, and Where. The document does not provide any context about the specific software project being managed, but rather serves as a general guide for software project management."
+spm-1.pdf,What is a software project?,22.403816,0.801613," A software project is the complete procedure of software development from requirement gathering to testing and maintenance, carried out according to specific methodologies, within a defined period of time to produce a desired software product."
+spm-1.pdf,What are the seven project factors to consider when structuring a software development team?,22.403816,1.605395,"1. The difficulty of the problem to be solved, 2. The size of the resultant program(s) in source lines of code, 3. The time that the team will stay together, 4. The degree to which the problem can be modularized, 5. The required quality and reliability of the system to be built, 6. The rigidity of the delivery date, 7. The degree of sociability (communication) required for the project."
+tomato_2016_17.csv,What is the given file about?,3.501633,0.303859," The given file is a CSV (Comma Separated Values) file containing data about the tomato production in different districts of TamilNadu state in India. The data includes the state name, district name, area (in hectares), production (in tonnes), and productivity (in tonnes per hectare). The file also includes a total row at the end showing the state total for all the data."
+tomato_2016_17.csv,Which city has productivity of 24.5 tonnes?,3.501633,0.807914, Dharmapuri
+tomato_2016_17.csv,What is the production of coimbatore in tonnes?,3.501633,0.481111,5118 tonnes.

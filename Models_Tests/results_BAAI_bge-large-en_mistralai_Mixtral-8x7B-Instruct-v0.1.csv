@@ -1,0 +1,434 @@
+Document Name,Query,Embedding Time,LLM Time,Result
+avocado.csv,What is the given file about?,2665.263937,4.429289," The given file is a CSV file about avocado prices. Each row contains information about the price of avocados in a particular region on a particular date. The columns provide information such as the average price, total volume, total bins, small bins, large bins, and the region and year."
+avocado.csv,"What is the price of Avocado when date is 15th July 2015 ,type is conventional and region is Albany?",2665.263937,1.046765,1.43
+avocado.csv,Display all the values in the row 7103,2665.263937,13.720531,"2015-09-27, 0.99, 1204.88, 6036.3, 102, 102, 103, 103, 104, 105, 106, 107, 108, 109, 110, 110, 111, 112, 113, 113, 114, 115, 116, 1117, 118, 119, 119, 120, 121, 122, 122, 123, 124, 125, 126, 127, 128, 129, 129, 130, 131, 131, 132, 133, 134, 135, 136, 137, "
+BE CSE 2019 Regulation.pdf,What is the given file about?,183.859664,1.08275,"
+The given file is about BE CSE 2019 Regulation."
+BE CSE 2019 Regulation.pdf,How many courses are there totally in this regulation?,183.859664,2.766758,"11 courses are there in total in this regulation.
+
+Explanation:
+
+The table in the given context information lists 11 courses in total.
+
+Reference(s):
+file: BE CSE 2019 Regulation.pdf
+path: sample test docs"
+BE CSE 2019 Regulation.pdf,Which year this regulation belongs to?,183.859664,1.568353,2019
+BE CSE 2019 Regulation.pdf,Explain about all the course outcomes in the course code 19Z504,183.859664,9.716192,"
+
+Course Code: 19Z504
+Course Title: Digital Design
+Periods / week: 3
+Lecture: 3
+Tutorial: 3
+Practical: 50
+Credits: 100
+CA: 50
+FE: 50
+
+Course Outcomes:
+
+1. Understand the basic concepts of digital design and its applications.
+2. Apply the knowledge of digital design to solve real-world problems.
+3. Analyze and design digital systems using industry-standard tools and techniques.
+4. Develop skills in digital design and its applications.
+5. Understand the ethical and social implications of digital design.
+
+Explanation:
+
+The course code 19Z504, Digital Design, is designed to provide students with a comprehensive understanding of the basic concepts of digital design and its applications. The course is structured to deliver 3 lectures, 3 tutorials, and 50 practicals per week, amounting to a total of 100 credits, 50 CA, and 50 FE. The course outcomes for 19Z504 are:"
+BE CSE 2019 Regulation.pdf,How many credits is the subject Cryptography?,183.859664,0.734944,50 credits
+camera_taken_img.jpg,What is the given file about?,10.445816,13.639143,"
+
+The given file is about the guidelines for project work in the Department of Computer Science & Engineering at PSG College of Technology in Coimbatore. It outlines the rules for project work and provides information about the tentative Projects in the Institution will have their reviews conducted by the committee and Guide. The file about the project work in the institution will have their reviews conducted by the committee and Guide. The file provides information about the rules for project work and specifies that students and the concerned project work in the institution will take the project in the institution will have the project work and provides guidelines for the project work.
+
+The file also specifies that students should communicate with their respective guides (internship Students) or through mail (Internship Students) and the file specifies that students should submit the weekly report. The file also specifies that students should submit one page file about their project including Title and timeline of the project and that presentations must be approved by their respective guides. The file further specifies that students doing Internship Projects in the Institution will have their reviews conducted by the committee and Guide. The file also specifies that students doing Internship Projects in the Institution will have their reviews conducted by the committee and Guide"
+camera_taken_img.jpg,What dates are the 2nd review scheduled?,10.445816,0.807343,27.02.2023
+camera_taken_img.jpg,How many marks will the review be evaluated for?,10.445816,0.79844,50 marks will be evaluated for the review.
+CS25S17420115_AdmitCard.pdf,What is the given file about?,8.704664,7.526255,"
+
+The given file is an admit card for the GATE 2025 examination. It contains information about the examination, including the candidate's details, examination center details, and important instructions for the candidate. The file also includes guidelines for the candidate to follow during the examination, such as prohibition of electronic devices, personal belongings, and theise that the candidate must follow the instructions given in the file."
+CS25S17420115_AdmitCard.pdf,What is the registration number and name of the student?,8.704664,10.562082,"
+
+The registration number and name of the student.
+
+The registration number and name of the student.
+
+The registration number and name of the student.
+
+The registration number and name of the student is the unique identifier for the student.
+
+The registration number and name of the student is the unique identifier for the student.
+
+The registration number and name of the student is the unique identifier for the student.
+
+The registration number and name of the student is the unique identifier for the student.
+
+The registration number and name of the student is the unique identifier for the student.
+
+The registration number and name of the student is the unique identifier for the student.
+
+The registration number and name of the student is the unique identifier for the student.
+
+Examining the unique identifier for the student is the unique identifier for the student is the unique identifier for the student.
+
+The registration number and name of the student is the unique identifier for the student is the unique identifier for the student.
+
+The registration number and name of the student is the unique identifier for the student.
+
+The registration number and name of the student is the unique identifier for the student is the unique identifier for the registration number and name of"
+CS25S17420115_AdmitCard.pdf,Give me clear information about the examination centre,8.704664,11.551855,"
+
+The query:
+
+
+The query:
+
+The query:
+
+The examination centre
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:
+
+The query:"
+csv_file.xlsx,What is the given file about?,6.477748,1.510739, The given file is a list of universities and colleges along with their programs and the total number of students so far.
+csv_file.xlsx,"Explain about the programs participated by P.S.G.R.Krishnammal College for Women, Coimbatore",6.477748,10.333377,"
+
+P.S.G.R.Krishnammal College for Women, Coimbatore participated in 1 program. This college is a women's college located in Coimbatore and it offers 1 program for students. The college is known for its name and reputation for providing quality education to students. The college is known for providing education to unqualified students. The college has been participating in the immersion program, which is an 8th-semester 4-week program. The college's reputation is at risk of being tarnished by unqualified students. The college's name is used to provide an opportunity for students to participate in the immersion program, which is a 4-week program in the 8th semester. The college's name is used to attract students who are not qualified for the immersion program. The college's name is used to provide an opportunity for students who are not eligible for the immersion program. The college's name is used to attract students who are not eligible for the immersion program, which is a 4-week program in the 8th semester. The college's name is used to attract students who are"
+csv_file.xlsx,How many students have been selected so far?,6.477748,0.594729,478
+clear_img.jpg,What is the given file about?,6.360794,6.854056,"
+
+The given file is about the annual sports day intramural schedule for PSG Tech Intra Collegiate. It contains the schedule for various tournaments for different games like throwball, hockey, volleyball, sepaktakraw, handball, chess and badminton for both men and women during December 2023. The schedule also mentions that the remaining schedule will be conducted during February 2024."
+clear_img.jpg,When will the remaining schedule will be conducted?,6.360794,1.067515,"
+
+The remaining schedule will be conducted during February 2024."
+clear_img.jpg,What are the events happening on 16th December 2023?,6.360794,1.066088,"
+
+* Chess Competition for Men
+* Chess Competition for Women"
+Docs.docx,What is the given file about?,16.879821,1.437258,"
+The given file contains a list of students with their details. It seems like a student list for an academic institution."
+Docs.docx,Who is the Faculty Mentor for Batch No. 5?,16.879821,3.349621,"
+The Faculty Mentor for Batch No. 5 is Dr.G.Sudha Sadasivam."
+Docs.docx,Which team is Praveen Krishna G in and who is his Faculty Mentor?,16.879821,1.362978,"
+Praveen Krishna G is the Faculty Mentor for the Department of Computer Science & Engineering."
+Guroove Requirement Analysis.pdf,What is the given file about? What is Guroove?,43.740775,5.199876,"
+
+The given file is about the requirement analysis of the Personalized Music Player for TM (Guroove).
+
+Reference(s):
+file_path: sample test docs\Guroove Requirement Analysis.pdf"
+Guroove Requirement Analysis.pdf,What happens in the final round of Auditions? What message will be sent to them?,43.740775,9.739202,"
+
+- If the user is red, mark them red (rejected)
+- If the user is yellow, mark them yellow (waiting list)
+- If the user is green, move them to round 2 section
+
+# Audition
+
+- Apply Round 1
+- Apply Round 2
+- Apply Round 3
+
+# Audition
+
+- Apply Round 1
+- Apply Round 2
+- Apply Round 3
+
+# Audition
+
+- Apply Round 1
+- Apply Round 2
+- Apply Round 3
+
+# Audition
+
+- Apply Round 1
+- Apply Round 2
+- Apply Round 3
+
+# Audition
+
+- Apply Round 1
+- Apply Round 2
+- Apply Round 3
+
+# Audition
+
+- Apply Round 1
+- Apply Round 2
+- Apply Round 3
+
+# Audition
+
+- Apply Round 1
+- Apply Round 2
+- Apply Round 3
+
+# Audition
+
+- Apply Round 1
+- Apply Round 2
+- Apply Round 3
+
+# Audition
+
+- Apply Round 1
+- Apply Round "
+Guroove Requirement Analysis.pdf,Explain about the event management feature in the App,43.740775,9.362481,"
+
+The event management feature in the App allows users to create events and invite participants to the event. The feature is to create events and invite participants to the event.
+
+The event management feature in the App allows users to create events and invite participants to the event.
+
+The event management feature in the App allows users to create events and invite participants to the event.
+
+The event management feature in the App allows users to create events and invite participants to the event.
+
+The event management feature in the App allows users to create events and invite participants to the event.
+
+The event management feature in the App allows users to create events and invite participants to the event.
+
+The event management feature in the App allows users to create events and invite participants to the event.
+
+The event management feature in the App allows users to create events and invite participants to the event.
+
+The event management feature in the App allows users to create events and invite participants to the event.
+
+The event management feature in the App allows users to create events and invite participants to the event.
+
+The event management feature in the App allows users to create events and invite participants to the event.
+
+The event management feature in the App allows users to"
+multimodal_report_generation_agent_img.png,What is the given file about?,12.656791,2.380417,"
+
+The given file is about a report generation with LlamaParse. It is a research agent that generates a report with images. The knowledge base is used to retrieve and generate report. The commitment to disciplined reinvestment rate and antlutb Conatcerallina."
+multimodal_report_generation_agent_img.png,Explain about the flow diagram in the given image,12.656791,2.313266,"
+The flow diagram in the given image is a visual representation of the process of generating reports with images. It is a diagram that illustrates the flow of generating reports with images using LlamaParse. The diagram is intended to provide a clear understanding of the report generation process with images."
+Project Scheduling.pdf,What is the given file about?,9.820929,2.839265," The given file is about Project Scheduling.pdf and it contains information about software project management, principles of scheduling, problem table, network of activities, critical path and an example of network of activities."
+Project Scheduling.pdf,Explain about the Principles of Scheduling,9.820929,5.594916,"
+The principles of scheduling are the rules that are followed to ensure that a project is completed on time and within budget. The principles include compartmentalization, interdependency, time allocation, effort validation, defined responsibilities, defined outcomes, defined milestones, and critical path. These principles ensure that the project is broken down into manageable activities and tasks, the interdependency of each activity or task is determined, each task is allocated some number of work units, the project manager ensures that no more than the allocated number of workers are scheduled at any given time, tasks are assigned to specific team members, and tasks have defined outcomes and milestones. The principles also ensure that the critical path is determined, and the project is completed on time and within budget."
+Project Scheduling.pdf,What is critical path?,9.820929,1.667677,"
+Critical path is the longest duration path in a project schedule. Delay in critical path will delay the project schedule. Path with zero slack is called critical path."
+Project Work II - Review 1.pptx,What is the given file about?,14.701057,3.305124,"
+The given file is a PowerPoint presentation titled ""Project Work II - Review 1.pptx"" which contains information about student data insights and report generation for enhanced academic support using GPT. The file includes dataset provided by college, general student information, achievements/participation details, additional information like scholarship details, photos, certificates, or scanned documents in various file formats like CSV/XLSX, PDF, images, and documents."
+Project Work II - Review 1.pptx,What are the reasons for changing the problem statement?,14.701057,8.576823,"
+- Lack of resources available for reference
+- Time constraints
+- New domain
+- Teachers advised to implement a technical solution rather than a theoretical one
+- Overall consensus was that the project may be a little too tough for us given the different constraints
+
+# Project Title
+
+Confidentiality in cloud-based systems through the use of blockchain and zero knowledge proofs
+
+# Project Description
+
+The aim of this project is to ensure confidentiality in cloud-based systems through the use of blockchain and zero knowledge proofs. The project will involve a literature review, study of LLMs, implementation of front-end along with an integrated LLM, and testing of all the components together. The project will also involve answering queries related to context information and prior knowledge to answer the query.
+
+# Problem Statement
+
+The problem statement for this project has been changed to:
+- Original problem statement: Ensuring confidentiality in cloud-based systems
+- Changed problem statement: Ensuring confidentiality in cloud-based systems through the use of blockchain and zero knowledge proofs
+
+The reasons for changing the problem statement are:
+- Lack of resources available for reference
+- Time constraints
+- New domain
+-"
+Project Work II - Review 1.pptx,What are the tools used?,14.701057,1.915778,"
+
+The tools used in this project include LlamaParse, BAAI Embedding Model, Python, Gradient Framework, Vector Database, and Docker. These tools are used to enhance the performance of the project."
+Screenshot 2024-03-18 094225.png,What is the given file about?,5.301839,9.310005,"
+
+The given file appears to be a screenshot of a system log or terminal window, possibly from a Linux or Unix-based operating system. The log contains various entries related to system events, user logins, and assessment or tutorial sessions. Some of the entries are timestamped with dates in the format YYMMDD HHMM (e.g., 190601, 194601, 197604, and 192602). 
+
+The log shows multiple user accounts, such as HALL, A, BE, and BTech. There are also entries related to different roles or rights, such as R1-R7 and G1. 
+
+Some of the entries indicate possible system vulnerabilities or misconfigurations, such as 401 and 402 errors. Additionally, there are entries related to tutorials or assessments with time constraints, such as 10.30-12.10pm, 3.30-5.10pm, and 26.03-7.10pm.
+
+In summary, the given file is a system log or terminal"
+Screenshot 2024-03-18 094225.png,What date is assessment tutorial 2 on?,5.301839,1.197914,"10.30-12.10pm, 26.03.2024"
+Screenshot 2024-03-18 094225.png,"What hall, date and time is scheduled for BE CSE G2 for the subject 19Z604?",5.301839,4.152035,"
+
+HALL 4
+Date: 26.03.2024
+Time: 5.30-7.10pm
+Subject: 19Z604
+
+Explanation:
+The context information provides the hall, date and time for BE CSE G2 for the subject 19Z604. The hall is HALL 4, date is 26.03.2024, and time is 5.30-7.10pm."
+Screenshot 2024-09-10 223012.png,What is the given file about?,4.216771,3.739071,"
+
+The given file is a screenshot of a conversation that appears to be taking place in a chat application. The conversation includes various fragments of text in different languages, including English, Arabic, and what appears to be French. The conversation includes emojis and special characters. Without additional context, it is difficult to determine the exact topic of the conversation, but it appears to involve multiple people discussing various topics, including potential vacation plans and a possible event."
+Screenshot 2024-09-10 223012.png,What are the types of MAC protocols for Ad-hoc wireless networks?,4.216771,4.732715,"
+
+MAC protocols for Ad-hoc wireless networks can be broadly classified into two categories: 
+
+1. Contention-based protocols: These protocols allow nodes to compete for the channel access. Examples include ALOHA, CSMA/CA, and 802.11 DCF.
+
+2. Controlled-access protocols: These protocols control the channel access by implementing a scheduling algorithm. Examples include the 802.11 PCF and 802.11 HCF.
+
+Note: The above answer is based on the context information and not prior knowledge."
+Screenshot 2024-09-10 223012.png,Given examples for Contention-based protocols with scheduling mechanism,4.216771,5.034299,"
+
+Contention-based protocols are protocols in which multiple devices share a medium by contending for access to the medium. In such protocols, each device has an equal chance to access the medium. However, in scenarios where the number of devices is large, contention leads to collisions and waste of resources. To overcome this, scheduling mechanisms are introduced in contention-based protocols. Scheduling mechanisms provide a structured way of accessing the medium, where each device is given a specific time slot to access the medium. This way, the contention-based protocols with scheduling mechanisms provide a more structured and efficient way of accessing the medium in scenarios with a large number of devices."
+Screenshot 2024-09-10 223242.png,What is the given file about?,5.099148,3.450499,"
+The given file is about route maintenance in DSDV. The table contains information about the destination ID, destination, next node, distance, sequence number, and checksum. The table shows the relationship between the destination ID, movement, and sequence number. The sequence number is used to prevent the replay attack. The checksum is used to ensure the integrity of the data."
+Screenshot 2024-09-10 223242.png,Explain the routing table given in the picture,5.099148,5.290103,"
+
+The routing table given in the picture is for DSDV (Destination-Sequenced Distance Vector) routing protocol. The table contains the following fields:
+
+1. Destination ID: This field indicates the ID of the destination node.
+2. Det: This field indicates the distance to the destination.
+3. NexNode: This field indicates the next node in the route.
+4. Dist: This field indicates the total distance to the destination.
+5. SccNo: This field indicates the sequence number of the destination.
+
+The values in the fields suggest that the table is for a malicious node trying to exploit the network. The table is well-formed and maintained by a legitimate node."
+Screenshot 2024-09-10 223242.png,Route between which nodes is broken in the given picture?,5.099148,0.832323,170 -> 186 is broken.
+spm-1.pdf,What is the given file about?,89.112193,2.14756,"
+
+The given file is about Software Project Management. It contains concepts related to the project management and also has a sample test document for spm-1.pdf. The file is provided by Prakash.J from PSG College of Technology."
+spm-1.pdf,What is a software project?,89.112193,9.768527,"
+
+A software project is a complete procedure of software development from requirement gathering to testing and maintenance, carried out according to the execution methodologies, in a specified period of time to achieve intended software product.
+
+# Software Project Management
+
+Prakash.J
+
+PSG College of Technology
+
+file_path: sample test docs\spm-1.pdf
+
+# Software Project Management
+
+- The software project management is a discipline in its own right.
+- It is a set of principles, processes, and practices that are intended to guide software projects in the right direction.
+- Software project management is not a mere formality but a valuable tool for ensuring the success of software projects.
+
+Software Project Management
+
+Prakash.J
+
+PSG College of Technology
+
+file_path: sample test docs\spm-1.pdf
+
+# Software Project Management
+
+- Software project management is a systematic approach for planning, organizing, and controlling resources to bring about the software project's successful completion.
+- It involves the application of knowledge, skills, tools, and techniques to the software project's execution.
+- Software project management's primary goal is to produce a"
+spm-1.pdf,What are the seven project factors to consider when structuring a software development team?,89.112193,5.091293,"
+
+The seven project factors to consider when structuring a software development team are:
+
+1. The difficulty of the problem to be solved
+2. The size of the resultant program(s) in source lines of code
+3. The time that the team will stay together
+4. The degree to which the problem can be modularized
+5. The required quality and reliability of the system to be built
+6. The rigidity of the delivery date
+7. The degree of sociability (communication) required for the project
+
+These factors are crucial in ensuring the success of a software development project, and they should be carefully considered during the team structuring process."
+tomato_2016_17.csv,What is the given file about?,4.931022,2.57013,"
+The given file is a dataset containing information about the tomato production in Tamil Nadu state of India. The dataset includes details about the state, district, area in hectares, total production in tonnes, and productivity in tonnes per hectare for each district in Tamil Nadu."
+tomato_2016_17.csv,Which city has productivity of 24.5 tonnes?,4.931022,0.659084,"
+Dharmapuri"
+tomato_2016_17.csv,What is the production of coimbatore in tonnes?,4.931022,0.687017,5118 tonnes

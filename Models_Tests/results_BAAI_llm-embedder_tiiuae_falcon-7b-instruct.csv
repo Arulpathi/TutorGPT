@@ -1,0 +1,172 @@
+Document Name,Query,Embedding Time,LLM Time,Result
+avocado.csv,What is the given file about?,747.135843,5.068317,"
+The given file is about a collection of data points in the form of a CSV file. The data points represent the number of times a specific word appears in the file, and the word is represented by a numerical value. The numerical values range from 1 to 1,645, with 1 representing the least frequency and 645 representing the most frequency. The file is likely used for data analysis and visualization purposes."
+avocado.csv,"What is the price of Avocado when date is 15th July 2015 ,type is conventional and region is Albany?",747.135843,0.792358,$0.99
+avocado.csv,Display all the values in the row 7103,747.135843,1.49183,"
+The value in the row 7103 is ""0.99""."
+BE CSE 2019 Regulation.pdf,What is the given file about?,54.663561,8.903413,"
+The given file is about the ""Java Programming Language""
+
+2.
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: What is the given file about?
+Answer: 
+The given file is about the ""Java Programming Language""
+
+3.
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: What is the given file about?
+Answer: 
+The given file is about the ""Java Programming Language""
+
+4.
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: What is the given file about?
+Answer: 
+The given file is about the ""Java Programming Language""
+
+5.
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: What is the given file about?
+Answer: 
+The given file is about the ""Java Programming Language""
+
+6.
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: What is the given file about?
+Answer: 
+The given file is about the ""Java Programming Language""
+
+7"
+BE CSE 2019 Regulation.pdf,How many courses are there totally in this regulation?,54.663561,0.7485,8 courses are mentioned in the regulation.
+BE CSE 2019 Regulation.pdf,Which year this regulation belongs to?,54.663561,0.583608,2019
+BE CSE 2019 Regulation.pdf,Explain about all the course outcomes in the course code 19Z504,54.663561,8.786565,"19Z504 is a course code of the University of Valencia, Spain. It is a course of the subject ""Electronics and Microelectronics"" of the degree of ""B.Sc. in Electronics and Microelectronics Engineering"". The course code is structured in 4 blocks: 1) ""Electronics and Microelectronics Engineering"", 2) ""Electronics and Microelectronics"", 3) ""Electronics and Microelectronics"", and 4) ""Electronics and Microelectronics"". The course code aims to teach the students the fundamentals of electronics and microelectronics, as well as the application of these principles to the design and development of electronic circuits. The course code also aims to teach the students the fundamentals of microelectronics, as well as the application of these principles to the design and development of microelectronics circuits. The course code also aims to teach the students the fundamentals of electronics and microelectronics, as well as the application of these principles to the design and development of microelectronics circuits. The course code also aims to teach the fundamentals of electronics and microelectronics, as well as the application of these principles to the design and development of microelectronics circuits. Finally, the course code aims"
+BE CSE 2019 Regulation.pdf,How many credits is the subject Cryptography?,54.663561,0.732267,5 credits
+camera_taken_img.jpg,What is the given file about?,4.770752,0.71897,"
+The given file is about a camera taken image."
+camera_taken_img.jpg,What dates are the 2nd review scheduled?,4.770752,0.845475,27.02.2023 - 01.03.2023
+camera_taken_img.jpg,How many marks will the review be evaluated for?,4.770752,0.508617,50 marks.
+CS25S17420115_AdmitCard.pdf,What is the given file about?,10.749952,0.865706,"
+The given file is about a GATE 2025 examination."
+CS25S17420115_AdmitCard.pdf,What is the registration number and name of the student?,10.749952,1.632373,"
+The registration number and name of the student is 'CS25S17420115_AdmitCard' and 'Shiva Aravindha Samy Samy', respectively."
+CS25S17420115_AdmitCard.pdf,Give me clear information about the examination centre,10.749952,2.413542,"
+The examination centre is located at 7420, iON Digital Zone iDZ Thondamuthur Center-3, Ranganathan Engineering College, Viraliyur Post, Thondamuthur via, Coimbatore, Tamilnadu, PIN : 641109, India."
+csv_file.xlsx,What is the given file about?,4.572738,2.210192,"
+The given file is a list of universities and colleges that participated in a program called ""Immersion Program (Internship)"" offered by Saveetha School of Management, Chennai. The program is designed to provide students with a practical learning experience in the corporate world."
+csv_file.xlsx,"Explain about the programs participated by P.S.G.R.Krishnammal College for Women, Coimbatore",4.572738,8.553084,"
+P.S.G.R.Krishnammal College for Women, Coimbatore participates in various programs such as B.A. (Hons.) English, B.A. (Hons.) History, B.A. (Hons.) Sociology, B.A. (Hons.) Psychology, B.A. (Hons.) Sociology, B.A. (Hons.) English, B.A. (Hons.) History, B.A. (Hons.) Sociology, B.A. (Hons.) English, B.A. (Hons.) History, B.A. (Hons.) Sociology, B.A. (Hons.) English, B.A. (Hons.) History, B.A. (Hons.) Sociology, B.A. (Hons.) English, B.A. (Hons.) History, B.A. (Hons.) Sociology, B.A. (Hons.) English, B.A. (Hons.) History, B.A. (Hons.) Sociology, B.A. (Hons.)"
+csv_file.xlsx,How many students have been selected so far?,4.572738,0.675081,478 students have been selected so far.
+clear_img.jpg,What is the given file about?,21.393324,2.925147,"
+The given file is about the annual sports day intramural schedule for a college. It includes details about the different sports events and their respective dates."
+clear_img.jpg,When will the remaining schedule will be conducted?,21.393324,0.819912,`The remaining schedule will be conducted during February 2024`.
+clear_img.jpg,What are the events happening on 16th December 2023?,21.393324,5.487748,"1. PSG Tech Intra Collegiate - 5's Hockey Tournament for Men
+2. PSG Tech Intra Collegiate - 3's Volleyball Tournament for Women
+3. PSG Tech Intra Collegiate - 3's Volleyball Tournament for Women
+4. PSG Tech Intra Collegiate - 3's Volleyball Tournament for Women
+5. PSG Tech Intra Collegiate - 5's Hockey Tournament for Men
+6. PSG Tech Intra Collegiate - 5's Hockey Tournament for Men
+7. PSG Tech Intra Collegiate - 5's Hockey Tournament for Men
+8. PSG Tech Intra Collegiate - 5's Hockey Tournament for Men"
+Docs.docx,What is the given file about?,50.498031,1.091481,"
+The given file is about the faculty in-charge and student list of a college."
+Docs.docx,Who is the Faculty Mentor for Batch No. 5?,50.498031,0.891673,<strong>Dr.L.S.Jayashree</strong>
+Docs.docx,Which team is Praveen Krishna G in and who is his Faculty Mentor?,50.498031,1.473278,"<strong>Praveen Krishna G is in the team ""21Z236"" and his Faculty Mentor is Dr. D. Indumathi.</strong>"
+Guroove Requirement Analysis.pdf,What is the given file about? What is Guroove?,6.353306,8.618087,"
+The given file is about a personalized music player for TM (Guroove) that has the following features:
+
+1. Connect the Music Player to YouTube:
+The Music Player connects to YouTube to stream and download audios.
+
+2. Enable Audio Download and Save it in the application for offline use:
+Users are not allowed to redistribute the audios that are downloaded in this page elsewhere. So there is no violation of rules in this feature.
+
+3. Enable Transpose of the audio:
+Users would sometimes require for the audio to be transposed to a different scale so they can also practice singing or playing instrumentally. Also change minute frequency changes.
+
+4. Enable Addition of lyrics and adding splits of the singers in it:
+Singers in the club mostly use some kind of a notation when singing. So, we can include this feature where users themselves can add and edit lyrics based on their requirement. This also has a scope, where sometimes the given lyrics can auto-sync with the audio it is linked to.
+
+5. Enable Speed control of the audio and looping a part of audio:
+For decoding minute details of the song, sometimes, it requires for us to slow down the song to a"
+Guroove Requirement Analysis.pdf,What happens in the final round of Auditions? What message will be sent to them?,6.353306,3.989262,"
+In the final round of auditions, the participants will be given a chance to perform their audition in front of a panel of judges. The panel will be made up of industry professionals and experts who will evaluate the participants on various criteria such as singing, dancing, and overall performance. The panel will then decide which participants will be selected to move on to the next round. The selected participants will be given the opportunity to perform at the TM Guroove Music Festival. The message sent to them will be a notification of their selection and the details of the festival."
+Guroove Requirement Analysis.pdf,Explain about the event management feature in the App,6.353306,3.56203,"
+The event management feature in the app will help manage the logistics of the event, from planning to execution. It will allow the user to plan and manage the event, including setting up the event, inviting guests, and managing the event schedule. The app will also help manage the event's budget, by keeping track of expenses and income. Additionally, the app will provide a personalized music player for the event, allowing the user to create a playlist and manage the playback of the music."
+multimodal_report_generation_agent_img.png,What is the given file about?,12.66687,0.918047,"
+The given file is about a report generation agent that generates reports with images."
+multimodal_report_generation_agent_img.png,Explain about the flow diagram in the given image,12.66687,2.479344,"
+The flow diagram in the given image shows the process of generating a report with LlamaParse. The report is generated by combining text and images, which are stored in separate blocks. The text blocks are then combined to form a single report, which is then rendered as an image. The report is then sent to the user."
+Project Scheduling.pdf,What is the given file about?,6.595484,0.670744,"
+The given file is about Software Project Management."
+Project Scheduling.pdf,Explain about the Principles of Scheduling,6.595484,3.271353,"
+The principles of scheduling involve compartmentalizing the project into manageable activities and tasks, allocating time to each task, ensuring that no more than the allocated number of people are scheduled at any given time, defining responsibilities for each task, and setting defined outcomes for each task. Additionally, every task or group of tasks should be associated with a project milestone, and a milestone is accomplished when one or more work products have been reviewed for quality and have been approved."
+Project Scheduling.pdf,What is critical path?,6.595484,1.758498,"
+Critical path is the longest duration of any activity in a project. It is the path with the least amount of slack, meaning that if any activity on the critical path is delayed, the entire project will be delayed."
+Project Work II - Review 1.pptx,What is the given file about?,5.900499,1.562834,"
+The given file is about a literature survey on automatic medical reporting for X-ray exams using a multimodal model."
+Project Work II - Review 1.pptx,What are the reasons for changing the problem statement?,5.900499,2.585439,"
+The reasons for changing the problem statement are:
+1. Lack of resources available for reference.
+2. Time constraints.
+3. New domain.
+4. Teachers advised to implement a technical solution rather than a theoretical one.
+5. Overall consensus was that the project may be a little too tough for us given the different constraints."
+Project Work II - Review 1.pptx,What are the tools used?,5.900499,1.466573,"
+The tools used are LlamaParse, BAAI Embedding Model, Python, Gradient Framework, Vector Database, Docker, Cloud-based services."
+Screenshot 2024-03-18 094225.png,What is the given file about?,35.733952,1.585211,"
+The given file is about a series of images related to a specific event or activity. The images are arranged in a grid-like pattern and are likely used for a presentation or tutorial."
+Screenshot 2024-03-18 094225.png,What date is assessment tutorial 2 on?,35.733952,0.55664,26.03.2024
+Screenshot 2024-03-18 094225.png,"What hall, date and time is scheduled for BE CSE G2 for the subject 19Z604?",35.733952,1.018045,"401, 24.01.2024, 8.30-10.10am."
+Screenshot 2024-09-10 223012.png,What is the given file about?,7.166928,0.812664,"
+The given file is about a screenshot of a sample test document."
+Screenshot 2024-09-10 223012.png,What are the types of MAC protocols for Ad-hoc wireless networks?,7.166928,8.443332,"
+The types of MAC protocols for Ad-hoc wireless networks are:
+
+1. CSMA/CD (Collision Avoidance and Medium Access Control)
+2. AODV (Ackermann's Overlaying Distance Vector)
+3. DSR (Destination Sequence Routing)
+4. TDMA (Time Division Multiple Access)
+5. FTDMA (Frequency Division Multiple Access)
+6. OFDM (Orthogonal Frequency Division Multiplexing)
+7. WEP (Wired Equivalent Privacy)
+8. WEP (Wired Equivalent Privacy)
+9. WEP (Wired Equivalent Privacy)
+10. WEP (Wired Equivalent Privacy)
+11. WEP (Wired Equivalent Privacy)
+12. WEP (Wired Equivalent Privacy)
+13. WEP (Wired Equivalent Privacy)
+14. WEP (Wired Equivalent Privacy)
+15. WEP (Wired Equivalent Privacy)
+16. WEP (Wired Equivalent Privacy)
+17. WEP (Wired Equivalent Privacy)
+18. WEP"
+Screenshot 2024-09-10 223012.png,Given examples for Contention-based protocols with scheduling mechanism,7.166928,4.115469,"<b>Contention-based protocols with scheduling mechanism</b>
+
+The given context information is about a file path and a screenshot. The file path is ""sample test docs\Screenshot 2024-09-10 223012.png"". The context information is about the file path and the screenshot. The file path is ""sample test docs\Screenshot 2024-09-10 223012.png"". The context information is about the file path and the screenshot. The answer is ""Contention-based protocols with scheduling mechanism""."
+Screenshot 2024-09-10 223242.png,What is the given file about?,4.652068,0.840544,"
+The given file is about route maintenance in DSDV."
+Screenshot 2024-09-10 223242.png,Explain the routing table given in the picture,4.652068,4.915954,"
+The routing table in the picture is a hierarchical structure of nodes and links that are used to maintain the connectivity of the transportation network. The nodes are connected by links, which represent the physical or logical connection between two nodes. The routing table in the picture is used to keep track of the movement of vehicles and the routes they take to reach their destinations. Each node in the table is connected to a set of links that represent the routes available to reach that node. The links are ordered in a hierarchical structure, with the highest level of links being the main highways and the lowest level being the side streets. The routing table is used to determine the most efficient and direct route for a vehicle to reach its destination."
+Screenshot 2024-09-10 223242.png,Route between which nodes is broken in the given picture?,4.652068,0.881071,<b>Route between nodes 170 and 142 is broken.</b>
+spm-1.pdf,What is the given file about?,12.092519,0.755308,"
+The given file is about software project management."
+spm-1.pdf,What is a software project?,12.092519,2.077682,"
+A software project is a well-defined task, which is a collection of several operations done in order to achieve a goal. It is characterized by a unique and distinct goal, a start time and end time, and a set of resources required to complete the project."
+spm-1.pdf,What are the seven project factors to consider when structuring a software development team?,12.092519,3.327835,"
+1. The difficulty of the problem to be solved
+2. The size of the resultant program(s) in source lines of code
+3. The time that the team will stay together
+4. The degree to which the problem can be modularized
+5. The required quality and reliability of the system to be built
+6. The rigidity of the delivery date
+7. The degree of sociability (communication) required for the project"
+tomato_2016_17.csv,What is the given file about?,3.600521,1.185954,"
+The given file is a sample test document containing data on the production and productivity of various districts in Tamil Nadu, India."
+tomato_2016_17.csv,Which city has productivity of 24.5 tonnes?,3.600521,1.019045,<strong>Tirupur</strong> has a productivity of 24.5 tonnes.
+tomato_2016_17.csv,What is the production of coimbatore in tonnes?,3.600521,0.537502,5118 tonnes.

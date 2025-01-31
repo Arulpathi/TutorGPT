@@ -1,0 +1,244 @@
+Document Name,Query,Embedding Time,LLM Time,Result
+avocado.csv,What is the given file about?,230.594242,1.211147," The given file is a CSV file containing avocado prices. Each row contains information about the price of avocados, the region, the date, and the type of avocado (conventional or organic). The first column seems to be an index or identifier for each row. The second column contains the average price for a conventional avocado, and the third column contains the average price for an organic avocado. The fourth and fifth columns contain the total number of conventional and organic avocados sold, respectively. The sixth and seventh columns contain the total revenue generated from the sale of conventional and organic avocados, respectively. The eighth and ninth columns contain the total volume of conventional and organic avocados sold, respectively. The tenth column contains the type of avocado (conventional or organic), the eleventh column contains the year, and the twelfth column contains the region where the avocados were sold."
+avocado.csv,"What is the price of Avocado when date is 15th July 2015 ,type is conventional and region is Albany?",230.594242,0.336635,1.24
+avocado.csv,Display all the values in the row 7103,230.594242,0.323444,2016-07-10|1.22|32054054.5|10548061.13|9255913.7|492604.3|10008533.68|7440444.59|2476400.79|91688.3|conventional|2016|TotalUS
+BE CSE 2019 Regulation.pdf,What is the given file about?,20.082203,0.316661,"
+The given file is a syllabus for the BE CSE 2019 Regulation. It contains the course codes, credit hours, and topics for the courses 19Z025 UNIX INTERNALS, 19Z403 OPERATING SYSTEMS, and 19Z404 DATABASE MANAGEMENT SYSTEMS. The file also includes the list of textbooks and references for the courses."
+BE CSE 2019 Regulation.pdf,How many courses are there totally in this regulation?,20.082203,0.345008,"20 courses in Semester 4, 5, 6 and 14 courses in Semester 7 and 8, making a total of 34 courses."
+BE CSE 2019 Regulation.pdf,Which year this regulation belongs to?,20.082203,0.331058,2019
+BE CSE 2019 Regulation.pdf,Explain about all the course outcomes in the course code 19Z504,20.082203,0.328118,"
+
+Based on the provided context information, there is no specific course outcome mentioned for the course code 19Z504. However, the course code 19Z504 falls under the category of ""Professional Elective"" (PE) as per the Course Title (2019 Regulations) and the CAT (Category) mentioned in the table.
+
+Therefore, it can be inferred that the course outcomes for the course code 19Z504 would be aligned with the general outcomes expected from a Professional Elective course in the BE Computer Science and Engineering program.
+
+As per the AICTE norms, the expected outcomes from a Professional Elective course in a BE program include:
+
+1. Developing a deeper understanding of the chosen area of specialization in the field of Computer Science and Engineering.
+2. Gaining advanced knowledge and skills in the chosen area of specialization.
+3. Developing the ability to apply the acquired knowledge and skills to solve complex problems in the chosen area of specialization.
+4. Developing the ability to work independently and in teams on projects related to the chosen area of specialization.
+5. Preparing for further studies"
+BE CSE 2019 Regulation.pdf,How many credits is the subject Cryptography?,20.082203,0.377778,2 + 2 + 0 + 4 = 8 credits.
+camera_taken_img.jpg,What is the given file about?,6.066893,0.322789,"
+The given file is an image taken by a camera, named 'camera\_taken\_img.jpg'. The image contains text that outlines the guidelines for project work at PSG College of Technology in Coimbatore, India. The guidelines include attendance requirements, communication expectations, and a schedule for project reviews. The first review is scheduled for January 30, 2023, and the external viva voce is scheduled for May 21 to June 20, 2023."
+camera_taken_img.jpg,What dates are the 2nd review scheduled?,6.066893,0.290352,27.02.2023 - 01.03.2023
+camera_taken_img.jpg,How many marks will the review be evaluated for?,6.066893,0.295531,50 marks
+CS25S17420115_AdmitCard.pdf,What is the given file about?,5.659755,0.299664,"
+The given file is an Admit Card for the Graduate Aptitude Test in Engineering (GATE) 2025 for the Computer Science and Information Technology (CS) paper. The Admit Card belongs to a candidate named Shiva Aravindha Samy A with the registration number CS25S17420115. The examination is scheduled for 1st February 2025, from 9:30 AM to 12:30 PM. The examination center is iON Digital Zone iDZ Thondamuthur Center-3, Ranganathan Engineering College, REC Kalvi Nagar, Viraliyur Post, Thondamuthur via, Coimbatore, Tamilnadu, PIN : 641109, India. The organizing institute is IIT Roorkee, and the organizing chairperson is Prof. P Arumugam. The Admit Card contains important instructions for the candidate, such as bringing a printed copy of the Admit Card, a valid photo identification document, and a scribble pad for rough work. Personal calculators, mobile phones, and other electronic devices are prohibited inside"
+CS25S17420115_AdmitCard.pdf,What is the registration number and name of the student?,5.659755,0.299359,"
+The registration number of the student is CS25S17420115 and the name of the student is SHIVA ARAVINDHA SAMY A."
+CS25S17420115_AdmitCard.pdf,Give me clear information about the examination centre,5.659755,0.307074,"
+Examination Centre: 7420
+iON Digital Zone iDZ Thondamuthur Center-3, Ranganathan Engineering College,
+REC Kalvi Nagar, Viraliyur Post, Thondamuthur via, Coimbatore, Tamilnadu, PIN : 641109, India."
+csv_file.xlsx,What is the given file about?,3.491462,0.311813," The given file is an excel file named 'csv_file.xlsx'. It contains two tables with information about universities and colleges. The first table lists the universities and colleges along with the number of programs they offer in different semesters. The second table provides information about the universities and colleges that have participated in immersion programs, the number of programs offered by them, and the location of the immersion programs."
+csv_file.xlsx,"Explain about the programs participated by P.S.G.R.Krishnammal College for Women, Coimbatore",3.491462,0.305215,"
+P.S.G.R.Krishnammal College for Women, Coimbatore has participated in 4 programs in total. Among them, 1 program is with James Cook University (#JCU), 1 program is with Swinburne University of Technology (*SUT), and 1 program is with Western Australia, Perth (WA). The details of the 4th program are not provided in the table."
+csv_file.xlsx,How many students have been selected so far?,3.491462,0.300944,478 students have been selected so far.
+clear_img.jpg,What is the given file about?,3.266352,0.304098,"
+The given file is an image named 'clear_img.jpg'. However, the content of the image is not provided in the context information."
+clear_img.jpg,When will the remaining schedule will be conducted?,3.266352,0.293289,"
+The remaining schedule will be conducted during February 2024.'"
+clear_img.jpg,What are the events happening on 16th December 2023?,3.266352,0.289212,"1. Chess Competition for Men, 2. Chess Competition for Women, 3. Badminton Tournament for Women (Doubles)"
+Docs.docx,What is the given file about?,3.363354,0.293579,"
+The given file is a Microsoft Word document titled 'Docs.docx' located in the directory 'sample test docs'. The document contains several tables with information about faculty members, program coordinators, and students. The faculty members' table includes their employee ID, name, and designation. The program coordinators' table is empty, indicating that there are no program coordinators listed in the document. The HOD-CSE table is also empty. The student list table includes their registration number, name, and mentor's name."
+Docs.docx,Who is the Faculty Mentor for Batch No. 5?,3.363354,0.333998,521Z259 - Subhashini G
+Docs.docx,Which team is Praveen Krishna G in and who is his Faculty Mentor?,3.363354,0.293737,"
+Praveen Krishna G is in the team with roll numbers 21z211, 21Z268, 21z240, and 21z236. His Faculty Mentor is not explicitly mentioned in the provided context."
+Guroove Requirement Analysis.pdf,What is the given file about? What is Guroove?,3.111421,0.30271,"
+The given file is a requirement analysis for a project called Guroove. Based on the context information, Guroove appears to be a platform or application for music-related activities, possibly for the TM (Tek Music) community. It includes features such as a personalized music player, a media library for photos and videos, a template storage system, and planning tools for TM events and shows. The project also includes an audition process for participants, with options for non-musical roles as well."
+Guroove Requirement Analysis.pdf,What happens in the final round of Auditions? What message will be sent to them?,3.111421,0.295986,"
+In the final round of auditions, participants will be required to take an aptitude test through the application. The test will have two sections: a theoretical section with a timer of 10-15 minutes and a descriptive essay writing section with a timer of 30-45 minutes. There will be no submit button, and participants must complete the test. Once the test is completed, the application will display a message saying ""CONGRATS🎉"" to those who are selected."
+Guroove Requirement Analysis.pdf,Explain about the event management feature in the App,3.111421,9.800996,"
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event Management
+
+- Enable Event Management:
+
+# Event"
+multimodal_report_generation_agent_img.png,What is the given file about?,5.162792,3.690389,"
+The given file is a sample test document for multimodal report generation with LlamaParse. It contains a report generated by a research agent with both text and image blocks. The report is about the commitment to disciplined reinvestment rate and Antlutb Conatcerallina. The output schema is Pango with LlamaParse Prettur Mode, and the screenshots are ordered and saved in the Vecio database."
+multimodal_report_generation_agent_img.png,Explain about the flow diagram in the given image,5.162792,4.417001,"
+
+The flow diagram in the given image illustrates the process of generating a multimodal report using LlamaParse. The process begins with the user query, which is then passed through the Retrieve and Generate stages. The Retrieve stage involves accessing the Knowledge Base to gather relevant information, while the Generate stage involves creating a report based on the retrieved information. The report is then formatted using Pango with LlamaParse Prettur Mode and saved in the Vecio database as both text and image blocks. The final report is displayed to the user, complete with relevant images."
+Project Scheduling.pdf,What is the given file about?,11.360843,3.083331,"
+The given file is a document about software project management, specifically focusing on project scheduling. It explains the principles of scheduling, such as compartmentalization, interdependency, time allocation, effort validation, defined responsibilities, defined outcomes, and defined milestones. The document also introduces a problem table and network of activities, and explains the concept of the critical path and slack/float."
+Project Scheduling.pdf,Explain about the Principles of Scheduling,11.360843,8.4535,"
+The Principles of Scheduling are a set of guidelines that help in effectively managing and organizing tasks in a project. These principles include:
+1. Compartmentalization: The project is divided into smaller, manageable activities and tasks.
+2. Interdependency: The interdependency of each task is determined, i.e., which tasks depend on the completion of other tasks.
+3. Time allocation: Each task is allocated a certain number of work units, such as person-days of effort.
+4. Effort validation: The project manager must ensure that no more than the allocated number of people have been scheduled at any given time.
+5. Defined responsibilities: Every task that is scheduled should be assigned to a specific team member.
+6. Defined outcomes: Every task that is scheduled should have a defined outcome.
+7. Defined milestones: Every task or group of tasks should be associated with a project milestone. A milestone is accomplished when one or more work products has been reviewed for quality and has been approved."
+Project Scheduling.pdf,What is critical path?,11.360843,2.28098,"
+
+The critical path is the longest duration in a project schedule. A delay in the critical path will result in a delay in the project schedule. The critical path is identified by finding the path with zero slack, where slack is the difference between late finish and early finish of an activity."
+Project Work II - Review 1.pptx,What is the given file about?,8.371934,3.270076,"
+The given file is a PowerPoint presentation titled 'Project Work II - Review 1'. It is likely a review or status update presentation for a project, possibly related to the implementation of a technical solution for ensuring confidentiality in cloud-based systems. The presentation may contain information about the project's progress, challenges faced, and solutions implemented. However, without access to the actual file, this is just an educated guess based on the provided context."
+Project Work II - Review 1.pptx,What are the reasons for changing the problem statement?,8.371934,4.705338,"
+- Lack of resources available for reference
+- Time constraints
+- New domain
+- Teachers advised to implement a technical solution rather than a theoretical one
+- Overall consensus was that the project may be a little too tough for us given the different constraints"
+Project Work II - Review 1.pptx,What are the tools used?,8.371934,2.455076,"
+- LlamaParse
+- BAAI Embedding Model
+- Python
+- Gradient Framework
+- Vector Database (not used at the moment)
+- Docker (not used at the moment)
+- Cloud-based services (potentially)"
+Screenshot 2024-03-18 094225.png,What is the given file about?,4.694537,3.272834,"
+The given file is a screenshot of a table with information about various halls (HALL, HALL 1, HALL 3, HALL 4) and their respective room numbers (401), assessment/tutorial dates, times, and corresponding course codes. The table also includes assessment/tutorial types and room numbers for each course."
+Screenshot 2024-03-18 094225.png,What date is assessment tutorial 2 on?,4.694537,0.729793,26.03.2024
+Screenshot 2024-03-18 094225.png,"What hall, date and time is scheduled for BE CSE G2 for the subject 19Z604?",4.694537,10.085339,"
+Hall: HALL 1
+Date: 26.03.2024
+Time: 5.30-7.10pm
+
+Explanation:
+
+* From the context information, we can see that the table shows the schedule for various subjects in different halls and times.
+* The subject 19Z604 is not explicitly mentioned in the table, but we can infer that it is related to the subject 192604, which appears in the same row as the time slot 5.30-7.10pm in HALL 1.
+* The subject 192604 is associated with the course BE CSE G2, as shown in the first row of the table.
+* Therefore, we can conclude that BE CSE G2 for the subject 19Z604 is scheduled for HALL 1, on 26.03.2024, from 5.30-7.10pm."
+Screenshot 2024-09-10 223012.png,What is the given file about?,6.398613,3.405415,"
+The given file is a screenshot with a table that appears to show some sort of schedule or timetable. The table has days of the week as column headers, and names of people or events in the rows. There is also a number associated with each name or event. The file path suggests that this screenshot was taken on a Wednesday. However, without additional context, it is difficult to provide a more specific answer about the content of the file."
+Screenshot 2024-09-10 223012.png,What are the types of MAC protocols for Ad-hoc wireless networks?,6.398613,7.581796,"
+
+Based on the context information provided, there is no direct mention of MAC protocols for Ad-hoc wireless networks. However, I can provide a general list of MAC protocols used in Ad-hoc wireless networks:
+
+1. Carrier Sense Multiple Access with Collision Avoidance (CSMA/CA)
+2. Time Division Multiple Access (TDMA)
+3. Frequency Division Multiple Access (FDMA)
+4. Code Division Multiple Access (CDMA)
+5. Adaptive Demand-Assigned Multiple Access (ADAMA)
+6. Multiple Access with Collision Resolution (MACA/CR)
+7. Dynamic TDMA (D-TDMA)
+8. Polling-based MAC protocols
+9. Hybrid MAC protocols
+
+Please note that the context information does not contain any specific MAC protocol related to the given file path or the table."
+Screenshot 2024-09-10 223012.png,Given examples for Contention-based protocols with scheduling mechanism,6.398613,4.818359,"
+
+Based on the provided context information, there is no direct example of Contention-based protocols with scheduling mechanism. However, the table seems to show some network-related information, including nodes (Elu, Voa, Inaruh), their identifiers (#ini, 623), and some other parameters. Contention-based protocols are a type of medium access control (MAC) protocol where nodes compete for access to the shared medium, and scheduling mechanisms help manage this competition. Without further context or information, it is not possible to provide a specific example of Contention-based protocols with scheduling mechanism from the given data."
+Screenshot 2024-09-10 223242.png,What is the given file about?,8.776911,4.973622,"
+The given file is a screenshot of a table showing route maintenance in DSDV (Destination-Sequenced Distance Vector). The table displays the Destination ID, Detection (Det), Next Node (NexNode), Distance (Dist), and Sequence Number (SccNo) for various destinations. The Detection indicates whether the destination is in movement or not, and the Sequence Number is used to prevent the old routing information from circulating in the network."
+Screenshot 2024-09-10 223242.png,Explain the routing table given in the picture,8.776911,8.92509,"
+
+The routing table provided in the picture is for the DSDV (Destination-Sequenced Distance Vector) routing protocol. The table contains information about the destination nodes, their next hop, distance, and sequence number.
+
+The columns in the table have the following meanings:
+
+* DestinationID: The ID of the destination node.
+* Det: The destination sequence number, which is used to prevent routing loops and ensure that the latest information is used.
+* NexNode: The next hop node to reach the destination.
+* Dist: The distance to reach the destination node.
+* SccNo: The sequence number of the last update received for this destination.
+
+For example, the first row in the table indicates that to reach the node with ID ""Nade"", the next hop is node 15, and the distance is 11 hops. The sequence number of the last update received for this destination is 162.
+
+Similarly, the second row shows that to reach the node with ID ""170"", the next hop is node 186, and the distance is 180 hops. The sequence number of the last update received for"
+Screenshot 2024-09-10 223242.png,Route between which nodes is broken in the given picture?,8.776911,3.381718,"
+Based on the table provided, it appears that the route between the nodes ""Nade"" and ""Movement"" is experiencing issues, as indicated by the ""Det"" column value of ""Movement"" for the ""Nade"" destination. This suggests that there is a problem with the movement of packets or data along this route. However, without additional context or information, it is difficult to determine the exact nature or cause of the problem."
+spm-1.pdf,What is the given file about?,15.597155,1.446144,"
+The given file is a document about Software Project Management, authored by Prakash.J from PSG College of Technology."
+spm-1.pdf,What is a software project?,15.597155,1.856034,"
+A Software Project is the complete procedure of software development from requirement gathering to testing and maintenance, carried out according to the execution methodologies, in a specified period of time to achieve intended software product."
+spm-1.pdf,What are the seven project factors to consider when structuring a software development team?,15.597155,3.640631,"
+- The difficulty of the problem to be solved
+- The size of the resultant program(s) in source lines of code
+- The time that the team will stay together
+- The degree to which the problem can be modularized
+- The required quality and reliability of the software to be built
+- The rigidity of the delivery date
+- The degree of sociability (communication) required for the project"
+tomato_2016_17.csv,What is the given file about?,3.509242,3.305422,"
+The given file is a CSV file containing data about tomato production in Tamil Nadu, India for the year 2016-17. The data is organized by state, district, area (in hectares), production (in tonnes), and productivity (in tonnes per hectare). The file also includes a total row for the state of Tamil Nadu."
+tomato_2016_17.csv,Which city has productivity of 24.5 tonnes?,3.509242,0.922113,"
+Dharmapuri has productivity of 24.5 tonnes."
+tomato_2016_17.csv,What is the production of coimbatore in tonnes?,3.509242,0.581511,5118 tonnes

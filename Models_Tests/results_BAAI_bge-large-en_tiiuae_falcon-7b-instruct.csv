@@ -1,0 +1,151 @@
+Document Name,Query,Embedding Time,LLM Time,Result
+avocado.csv,What is the given file about?,2606.688148,3.820451,"
+The given file is about a dataset containing 16,000 rows of data, with each row representing a location in Chicago, Illinois. The data includes information such as the longitude and latitude coordinates, as well as other relevant information. The file is likely used for geospatial analysis or mapping purposes."
+avocado.csv,"What is the price of Avocado when date is 15th July 2015 ,type is conventional and region is Albany?",2606.688148,0.908752,$0.00
+avocado.csv,Display all the values in the row 7103,2606.688148,1.181938,"
+The value in the row 7103 is 1.38."
+BE CSE 2019 Regulation.pdf,What is the given file about?,175.551712,1.55254,"
+The given file is about the BE CSE 2019 Regulation. It is a document containing rules and regulations for the BE CSE 2019 exam."
+BE CSE 2019 Regulation.pdf,How many courses are there totally in this regulation?,175.551712,0.798415,26 courses are there in this regulation.
+BE CSE 2019 Regulation.pdf,Which year this regulation belongs to?,175.551712,0.558735,2019
+BE CSE 2019 Regulation.pdf,Explain about all the course outcomes in the course code 19Z504,175.551712,8.737573,"19Z504 is a course that focuses on Object Oriented Analysis and Design. The course outcomes are:
+
+1. Understand the principles of object-oriented programming.
+2. Design and develop object-oriented software systems.
+3. Understand the principles of software engineering.
+4. Develop software applications using object-oriented programming concepts.
+5. Understand the principles of database design and development.
+6. Develop software applications using object-oriented programming concepts.
+7. Understand the principles of software testing and debugging.
+8. Develop software applications using object-oriented programming concepts.
+9. Understand the principles of software development life cycle.
+10. Develop software applications using object-oriented programming concepts.
+11. Understand the principles of software testing and debugging.
+12. Develop software applications using object-oriented programming concepts.
+13. Understand the principles of software development life cycle.
+14. Develop software applications using object-oriented programming concepts.
+15. Understand the principles of software testing and debugging.
+16. Develop software applications using object-oriented programming concepts.
+17. Understand the principles of software development life cycle.
+18. Develop software applications using object-oriented programming concepts.
+19. Understand the principles of software testing and debugging."
+BE CSE 2019 Regulation.pdf,How many credits is the subject Cryptography?,175.551712,0.826824,30 credits
+camera_taken_img.jpg,What is the given file about?,28.487778,0.786787,"
+The given file is about a camera taken image."
+camera_taken_img.jpg,What dates are the 2nd review scheduled?,28.487778,1.033573,27.02.2023 - 01.03.2023
+camera_taken_img.jpg,How many marks will the review be evaluated for?,28.487778,0.588681,50 marks.
+CS25S17420115_AdmitCard.pdf,What is the given file about?,7.136557,0.88707,"
+The given file is about a GATE 2025 examination."
+CS25S17420115_AdmitCard.pdf,What is the registration number and name of the student?,7.136557,1.736061,"
+The registration number and name of the student is 'CS25S17420115_AdmitCard' and 'Shiva Aravindha Samy Samy', respectively."
+CS25S17420115_AdmitCard.pdf,Give me clear information about the examination centre,7.136557,2.411228,"
+The examination centre is located at 7420, iON Digital Zone iDZ Thondamuthur Center-3, Ranganathan Engineering College, Viraliyur Post, Thondamuthur via, Coimbatore, Tamilnadu, PIN : 641109, India."
+csv_file.xlsx,What is the given file about?,6.249941,2.201451,"
+The given file is a list of universities and colleges that participated in a program called ""Immersion Program (Internship)"" offered by Saveetha School of Management, Chennai. The program is designed to provide students with a practical learning experience in the corporate world."
+csv_file.xlsx,"Explain about the programs participated by P.S.G.R.Krishnammal College for Women, Coimbatore",6.249941,8.577982,"
+P.S.G.R.Krishnammal College for Women, Coimbatore participates in various programs such as B.A. (Hons.) English, B.A. (Hons.) History, B.A. (Hons.) Sociology, B.A. (Hons.) Psychology, B.A. (Hons.) Sociology, B.A. (Hons.) English, B.A. (Hons.) History, B.A. (Hons.) Sociology, B.A. (Hons.) English, B.A. (Hons.) History, B.A. (Hons.) Sociology, B.A. (Hons.) English, B.A. (Hons.) History, B.A. (Hons.) Sociology, B.A. (Hons.) English, B.A. (Hons.) History, B.A. (Hons.) Sociology, B.A. (Hons.) English, B.A. (Hons.) History, B.A. (Hons.) Sociology, B.A. (Hons.)"
+csv_file.xlsx,How many students have been selected so far?,6.249941,0.732892,478 students have been selected so far.
+clear_img.jpg,What is the given file about?,5.045392,1.428043,"
+The given file is about the annual sports day intramural schedule for a college. It includes details about the different sports events and their respective dates."
+clear_img.jpg,When will the remaining schedule will be conducted?,5.045392,0.891575,`The remaining schedule will be conducted during February 2024`.
+clear_img.jpg,What are the events happening on 16th December 2023?,5.045392,5.472218,"1. PSG Tech Intra Collegiate - 5's Hockey Tournament for Men
+2. PSG Tech Intra Collegiate - 3's Volleyball Tournament for Women
+3. PSG Tech Intra Collegiate - 3's Volleyball Tournament for Women
+4. PSG Tech Intra Collegiate - 3's Volleyball Tournament for Women
+5. PSG Tech Intra Collegiate - 5's Hockey Tournament for Men
+6. PSG Tech Intra Collegiate - 5's Hockey Tournament for Men
+7. PSG Tech Intra Collegiate - 5's Hockey Tournament for Men
+8. PSG Tech Intra Collegiate - 5's Hockey Tournament for Men"
+Docs.docx,What is the given file about?,19.816669,1.038762,"
+The given file is about the faculty in-charge and student list of a college."
+Docs.docx,Who is the Faculty Mentor for Batch No. 5?,19.816669,1.17684,<strong>Dr.G.Sudha Sadasivam</strong>
+Docs.docx,Which team is Praveen Krishna G in and who is his Faculty Mentor?,19.816669,1.48258,"<strong>Praveen Krishna G is in the team ""GI"" and his Faculty Mentor is Dr. A.C. Ramesh.</strong>"
+Guroove Requirement Analysis.pdf,What is the given file about? What is Guroove?,10.414695,2.12718,"
+The given file is about a music player for TM Guroove. Guroove is a music platform that allows users to create, upload, and share their own music. The platform also provides a personalized music player for users to play their music."
+Guroove Requirement Analysis.pdf,What happens in the final round of Auditions? What message will be sent to them?,10.414695,4.046273,"
+In the final round of auditions, the participants will be given a chance to perform their audition in front of a panel of judges. The panel will be made up of industry professionals and experts who will evaluate the participants on various criteria such as singing, dancing, and overall performance. The panel will then decide which participants will be selected to move on to the next round. The selected participants will be given the opportunity to perform at the TM Guroove Music Festival. The message sent to them will be a notification of their selection and the details of the festival."
+Guroove Requirement Analysis.pdf,Explain about the event management feature in the App,10.414695,4.253447,"
+The event management feature in the App allows users to create and manage events, including concerts, festivals, and other musical events. Users can create and manage their own events, including setting the date, time, location, and other details. They can also invite their friends and family to attend the event, and keep track of their RSVPs. Additionally, users can create and manage their own playlists, and share them with their friends and family. The feature also allows users to create and manage their own personalized music player for their events, which can be used to play music during the event."
+multimodal_report_generation_agent_img.png,What is the given file about?,7.957592,0.977538,"
+The given file is about a report generation agent that generates reports with images."
+multimodal_report_generation_agent_img.png,Explain about the flow diagram in the given image,7.957592,2.51632,"
+The flow diagram in the given image shows the process of generating a report with LlamaParse. The report is generated by combining text and images, which are stored in separate blocks. The text blocks are then combined to form a single report, which is then rendered as an image. The report is then sent to the user."
+Project Scheduling.pdf,What is the given file about?,3.857126,0.724164,"
+The given file is about Software Project Management."
+Project Scheduling.pdf,Explain about the Principles of Scheduling,3.857126,3.302622,"
+The principles of scheduling involve compartmentalizing the project into manageable activities and tasks, allocating time to each task, ensuring that no more than the allocated number of people are scheduled at any given time, defining responsibilities for each task, and setting defined outcomes for each task. Additionally, every task or group of tasks should be associated with a project milestone, and a milestone is accomplished when one or more work products have been reviewed for quality and have been approved."
+Project Scheduling.pdf,What is critical path?,3.857126,1.777278,"
+Critical path is the longest duration of any activity in a project. It is the path with the least amount of slack, meaning that if any activity on the critical path is delayed, the entire project will be delayed."
+Project Work II - Review 1.pptx,What is the given file about?,10.893352,1.163254,"
+The given file is about a review of a project work related to student data insights and report generation using GPT."
+Project Work II - Review 1.pptx,What are the reasons for changing the problem statement?,10.893352,2.612576,"
+The reasons for changing the problem statement are:
+1. Lack of resources available for reference.
+2. Time constraints.
+3. New domain.
+4. Teachers advised to implement a technical solution rather than a theoretical one.
+5. Overall consensus was that the project may be a little too tough for us given the different constraints."
+Project Work II - Review 1.pptx,What are the tools used?,10.893352,4.325572,"
+1. LlamaParse: A Python library used for natural language processing.
+2. BAAI Embedding Model: A tool used for text embedding and topic modeling.
+3. Python: A programming language used for data analysis and machine learning.
+4. Gradient Framework: A tool used for machine learning and deep learning.
+5. Vector Database: A database used for storing and retrieving vector data.
+6. Docker: A containerization platform used for deploying and running applications.
+7. Cloud-based services: Services provided by cloud platforms like AWS, Azure, or Google Cloud."
+Screenshot 2024-03-18 094225.png,What is the given file about?,5.209001,1.591672,"
+The given file is about a series of images related to a specific event or activity. The images are arranged in a grid-like pattern and are likely used for a presentation or tutorial."
+Screenshot 2024-03-18 094225.png,What date is assessment tutorial 2 on?,5.209001,0.582963,26.03.2024
+Screenshot 2024-03-18 094225.png,"What hall, date and time is scheduled for BE CSE G2 for the subject 19Z604?",5.209001,1.084263,"401, 24.01.2024, 8.30-10.10am."
+Screenshot 2024-09-10 223012.png,What is the given file about?,2.899813,0.877774,"
+The given file is about a screenshot of a sample test document."
+Screenshot 2024-09-10 223012.png,What are the types of MAC protocols for Ad-hoc wireless networks?,2.899813,8.539448,"
+The types of MAC protocols for Ad-hoc wireless networks are:
+
+1. CSMA/CD (Collision Avoidance and Medium Access Control)
+2. AODV (Ackermann's Overlaying Distance Vector)
+3. DSR (Destination Sequence Routing)
+4. TDMA (Time Division Multiple Access)
+5. FTDMA (Frequency Division Multiple Access)
+6. OFDM (Orthogonal Frequency Division Multiplexing)
+7. WEP (Wired Equivalent Privacy)
+8. WEP (Wired Equivalent Privacy)
+9. WEP (Wired Equivalent Privacy)
+10. WEP (Wired Equivalent Privacy)
+11. WEP (Wired Equivalent Privacy)
+12. WEP (Wired Equivalent Privacy)
+13. WEP (Wired Equivalent Privacy)
+14. WEP (Wired Equivalent Privacy)
+15. WEP (Wired Equivalent Privacy)
+16. WEP (Wired Equivalent Privacy)
+17. WEP (Wired Equivalent Privacy)
+18. WEP"
+Screenshot 2024-09-10 223012.png,Given examples for Contention-based protocols with scheduling mechanism,2.899813,4.081626,"<b>Contention-based protocols with scheduling mechanism</b>
+
+The given context information is about a file path and a screenshot. The file path is ""sample test docs\Screenshot 2024-09-10 223012.png"". The context information is about the file path and the screenshot. The file path is ""sample test docs\Screenshot 2024-09-10 223012.png"". The context information is about the file path and the screenshot. The answer is ""Contention-based protocols with scheduling mechanism""."
+Screenshot 2024-09-10 223242.png,What is the given file about?,4.073823,0.840744,"
+The given file is about route maintenance in DSDV."
+Screenshot 2024-09-10 223242.png,Explain the routing table given in the picture,4.073823,4.899765,"
+The routing table in the picture is a hierarchical structure of nodes and links that are used to maintain the connectivity of the transportation network. The nodes are connected by links, which represent the physical or logical connection between two nodes. The routing table in the picture is used to keep track of the movement of vehicles and the routes they take to reach their destinations. Each node in the table is connected to a set of links that represent the routes available to reach that node. The links are ordered in a hierarchical structure, with the highest level of links being the main highways and the lowest level being the side streets. The routing table is used to determine the most efficient and direct route for a vehicle to reach its destination."
+Screenshot 2024-09-10 223242.png,Route between which nodes is broken in the given picture?,4.073823,0.999706,<b>Route between nodes 170 and 142 is broken.</b>
+spm-1.pdf,What is the given file about?,28.812975,0.778956,"
+The given file is about Project Management concepts."
+spm-1.pdf,What is a software project?,28.812975,1.65777,"
+A software project is a complete procedure of software development from requirement gathering to testing and maintenance, carried out according to the execution methodologies, in a specified period of time to achieve intended software product."
+spm-1.pdf,What are the seven project factors to consider when structuring a software development team?,28.812975,4.328001,"
+1. The People: The Software Team
+2. The difficulty of the problem to be solved
+3. The size of the resultant program(s) in source lines of code
+4. The time that the team will stay together
+5. The degree to which the problem can be modularized
+6. The required quality and reliability of the system to be built
+7. The rigidity of the delivery date
+8. The degree of sociability (communication) required for the project
+9. The management spectrum
+10. The product
+11. The process
+12. The project"
+tomato_2016_17.csv,What is the given file about?,4.622592,1.224536,"
+The given file is a sample test document containing data on the production and productivity of various districts in Tamil Nadu, India."
+tomato_2016_17.csv,Which city has productivity of 24.5 tonnes?,4.622592,1.082292,<strong>Tirupur</strong> has a productivity of 24.5 tonnes.
+tomato_2016_17.csv,What is the production of coimbatore in tonnes?,4.622592,0.607647,5118 tonnes.
